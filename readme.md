@@ -4,6 +4,8 @@ The goal of this project is to throw waste into the right trash.
 
 To do so you need to connect a webcam to your computer and and arduino uno with 3 servomotors connected.
 
+![picture](images/prototype.jpeg)
+
 The model has been created with TeachableMachine : https://teachablemachine.withgoogle.com
 
 IMPORTANT : The code can only be run with Python 3.8.1
