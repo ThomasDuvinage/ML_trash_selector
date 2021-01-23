@@ -1,4 +1,4 @@
-# Trash Selector 
+# ML Trash Selector 
 
 The goal of this project is to throw waste into the right trash.
 
@@ -32,7 +32,7 @@ source myenv/bin/activate
 
 Then, you can run the script by entering the following command :
 ```shell
-(myenv) computerName:trash_selector$ python3 main.py
+(myenv) computerName:ML_trash_selector$ python3 main.py
 ```
 
 ### Install libraries 
