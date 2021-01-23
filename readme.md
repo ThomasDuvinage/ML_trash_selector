@@ -12,6 +12,8 @@ IMPORTANT : The code can only be run with Python 3.8.1
 
 ## Run script 
 
+* Create virtual env : https://docs.python.org/3/library/venv.html
+
 Activate virtual environment
 
 * Window 
@@ -19,18 +21,18 @@ Activate virtual environment
 In the PowerShell enter :
 
 ```
-env\Scripts\activate.bat
+myenv\Scripts\activate.bat
 ```
 
 * Unix/MacOS
 
 ```shell
-source env/bin/activate
+source myenv/bin/activate
 ```
 
 Then, you can run the script by entering the following command :
 ```shell
-(env) computerName:trash_selector$ python3 main.py
+(myenv) computerName:trash_selector$ python3 main.py
 ```
 
 ### Install libraries 
