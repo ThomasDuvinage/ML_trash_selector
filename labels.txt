@@ -1,0 +1,4 @@
+0 Verre
+1 Plastique et métal
+2 Carton
+3 Rien
